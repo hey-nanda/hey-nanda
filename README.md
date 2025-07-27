@@ -59,13 +59,17 @@
  </div>
 
 ---
-
-## ✨ A Quote That Inspires Me
-
-> “The best way to predict the future is to create it.” – Peter Drucker
+<br>
+<h1>
+  “The best way to predict the future is to create it.”
+</h1>
+<span>
+   – Peter Drucker 
+</span>
+<br> <br>
 
 ---
-
+<br><br>
 <h1><p align="center">💜 Thanks for stopping by! Let's build something awesome together 🚀</p></h1>
 
 <div align="center">
