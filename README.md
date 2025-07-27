@@ -1,5 +1,4 @@
-## Hi there 👋
----
+
 ![typewriter (4)](https://github.com/user-attachments/assets/c189dae6-a31d-49b5-94b1-63131e109759)
 
 <h1 align="center">Hi there, I'm Ananda, but you can also call me Nanda✨</h1>
