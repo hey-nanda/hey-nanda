@@ -1,16 +1,75 @@
 ## Hi there 👋
+---
+![typewriter (4)](https://github.com/user-attachments/assets/c189dae6-a31d-49b5-94b1-63131e109759)
 
-<!--
-**hey-nanda/hey-nanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Ananda, but you can also call me Nanda✨</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Developer in training | 🌱 UX/UI and code lover <br>
+  🎯 Passionate about technology and creativity | ✨ Love immersive experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/56652fa8-37d8-459a-a0f7-acddaa2097ad" width="500px"/>
+</p>
+
+---
+<br>
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <h3><code>🚀 A   B   O   U   T       M   E</code></h3> <br><br>
+💼 Currently studying and building personal projects;</li> <br>
+🧠 Focused on learning <strong>JavaScript</strong>, <strong>React</strong> and <strong>Node.js;</strong></li> <br>
+📚 Passionate about tech, design, and continuous growth;</li> <br>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a15159d0-0087-462f-a31e-b692a30f35e0" width="80px"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+  <br>
+  
+### 🛠️ Technologies & Tools
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+<br>
+
+ <div align="center"> <img src="https://github.com/user-attachments/assets/8e718384-b1a2-40b7-8f95-946eee1de7ff" width="150px"/> 
+
+
+   ### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananda-teixeira-exe) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](nandamt.teixeira@gmail.com)
+ </div>
+
+---
+
+## ✨ A Quote That Inspires Me
+
+> “The best way to predict the future is to create it.” – Peter Drucker
+
+---
+
+<h1><p align="center">💜 Thanks for stopping by! Let's build something awesome together 🚀</p></h1>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f09621f5-f1d3-4656-bbf2-6e8c10479c7d"/>
+</div>
+
