@@ -20,9 +20,9 @@
   <tr>
     <td>
       <h3><code>🚀 A   B   O   U   T       M   E</code></h3> <br><br>
-💼 Currently studying and building personal projects;</li> <br>
-🧠 Focused on learning <strong>JavaScript</strong>, <strong>React</strong> and <strong>Node.js;</strong></li> <br>
-📚 Passionate about tech, design, and continuous growth;</li> <br>
+💼 Currently studying and building personal projects;</li> <br><br>
+🧠 Focused on learning <strong>JavaScript</strong>, <strong>React</strong> and <strong>Node.js;</strong></li> <br><br>
+📚 Passionate about tech, design, and continuous growth;</li> <br><br>
     <td>
       <img src="https://github.com/user-attachments/assets/a15159d0-0087-462f-a31e-b692a30f35e0" width="80px"/>
     </td>
