@@ -83,6 +83,8 @@
 <h1><p align="center">💜 Thanks for stopping by! Let's build something awesome together 🚀</p></h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f09621f5-f1d3-4656-bbf2-6e8c10479c7d"/>
+  <img src="https://github.com/user-attachments/assets/ce0cb52a-6e6c-4e77-9da3-a51f36775f28"/>
 </div>
+
+
 
