@@ -1,12 +1,21 @@
 
-![typewriter (4)](https://github.com/user-attachments/assets/c189dae6-a31d-49b5-94b1-63131e109759)
+<div align="center">
+  
+  ![typewriter (4)](https://github.com/user-attachments/assets/c189dae6-a31d-49b5-94b1-63131e109759)
+  
+  ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/a5384c91-8345-4e5c-96aa-a937707600e4)
+
+</div>
+
 
 <h1 align="center">Hi there, I'm Ananda, but you can also call me Nanda✨</h1>
 
-<p align="center">
+---
+
+<h4 align="center">
   💻 Developer in training | 🌱 UX/UI and code lover <br>
   🎯 Passionate about technology and creativity | ✨ Love immersive experiences.
-</p>
+</h4>
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/56652fa8-37d8-459a-a0f7-acddaa2097ad" width="500px"/>
