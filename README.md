@@ -43,8 +43,20 @@
   <br>
   
 ### 🛠️ Technologies & Tools
+
+<p>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+<img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-nanda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+  
+</p>
+
+
+
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
